@@ -1,5 +1,9 @@
 # flutter_shopping
 
+![plot](./image/gb1.jpeg)
+![plot](./image/gb2.jpeg)
+![plot](./image/gb3.jepg)
+
 A new Flutter project.
 
 ## Getting Started
